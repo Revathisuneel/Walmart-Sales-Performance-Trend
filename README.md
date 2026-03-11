@@ -1,4 +1,5 @@
 # Walmart-Sales-Performance-Trend
+Tableau Public Link :- https://public.tableau.com/app/profile/naga.revathi.settipalli/viz/Book2_17731601492150/Dashboard1?publish=yes
 Walmart Sales Performance Dashboard
 Project Overview
 This project focuses on building an interactive Walmart Sales Performance Dashboard to analyze store sales trends, compare holiday vs non-holiday performance, and identify high-performing stores.
